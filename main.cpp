@@ -3,10 +3,13 @@ void quicksort()
 {
 	//
 }
+<<<<<<< HEAD
 void bubblesort()
 {
 	//
 }
+=======
+>>>>>>> quicksort
 int main()
 {
 	std::cout<<"Hello World";
